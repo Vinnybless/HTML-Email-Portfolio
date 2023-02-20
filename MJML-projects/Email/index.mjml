@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+      <mj-all font-family="Tahoma, sans-serif" />
+      <mj-image padding="0" />
+      <mj-button padding="0" />
+      <mj-table padding="0" />
+      <mj-column padding="0" />
+      <mj-section padding="0" />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#0A1828" width="940px">
+    <!-- Company Name -->
+    <mj-section padding="15px 0px" background-color="#0A1828">
+      <mj-column>
+        <mj-text align="center" font-weight="100" font-size="24px" color="#BFA181"> VinnyCorp </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Image Heading -->
+    <mj-section background-color="#0A1828">
+      <mj-column>
+        <mj-image src="https://thumbs.dreamstime.com/b/big-data-internet-information-technology-business-information-concept-big-data-internet-information-technology-business-112471615.jpg" padding="0px 15px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Intro Text -->
+    <mj-section background-color="#0A1828">
+      <mj-column>
+        <mj-text font-size="18px" padding-top="20px" font-family="sans-serif" font-weight="100" color="#BFA181">The Future of Technology</mj-text>
+        <mj-text font-size="12px" padding="5px 40px" font-family="Tahoma" font-weight="100" color="#178582">Here at VinnyCorp we only sell top quality products. However, laptops and routers are our specialty. Built to last and the need for speed are both taken into account during our special manufacturing process. We thank you for giving us a try.</mj-text>
+        <mj-button href="#" padding-top="10px" padding-bottom="20px" font-size="12px" font-weight="800" background-color="#178582" color="#fff">Shop Here</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- 2 Column Section -->
+    <mj-section background-color="#0A1828">
+      <!-- Left Column -->
+      <mj-column>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0623/5363/7545/products/NLY31-render_template_blue_00818fbe-b7a1-4772-bac5-08e7aa2d64c6.jpg?v=1661870531" padding="0px 15px"></mj-image>
+      </mj-column>
+      <!-- Right Column -->
+      <mj-column>
+        <mj-text align="left" padding="0px 15px" font-size="24px" font-style="italic" font-family="sans-serif" font-weight="100" color="#BFA181">Unlike leading brands, we choose function over form, which is why our laptops are the best on the market. You will never regret shopping at VinnyCorp.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Social Icons -->
+    <mj-section background-color="#0A1828">
+      <mj-column>
+        <mj-social>
+          <mj-social-element padding="25px" name="facebook"></mj-social-element>
+          <mj-social-element padding="25px" name="instagram"></mj-social-element>
+          <mj-social-element padding="25px" name="twitter"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
